@@ -1,5 +1,5 @@
 ## What I do 🎸
-When not studying political science or playing music, I love working on web-development. What's more, as could only be the case in the 21st century, I'm focused on the JAMstack and writing serverless functions.
+I love working on web-development, and as could only be the case in the 21st century, I'm especially interested in working with the JAMstack and serverless functions.
 <br />
 <br />
 
