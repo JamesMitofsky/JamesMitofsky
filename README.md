@@ -9,4 +9,4 @@ I've been projecting [unwaitlist.io](https://unwaitlist.io/) (a service for UVM 
 <br />
 
 ## Community ❤️
-Black Lives Matter. If you're a member of the BIPOC community or represent a non-profit in need of a website, I'd be glad to do that work for free. Just [get in touch](mailto:jamestedesco802@gmail.com?subject=[Looking to discuss website needs]) and we'll make it happen!
+Black Lives Matter. If you're a member of the BIPOC community or represent a non-profit in need of a website, I'd be glad to do that work for free. Just [get in touch](mailto:jamestedesco802@gmail.com?subject=[Looking%20to%20discuss%20website%20needs]) and we'll make it happen!
