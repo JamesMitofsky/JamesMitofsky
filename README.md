@@ -1,9 +1,15 @@
-## What I do 🎸
-I love web-development for its sharability, and — as could only be the case in the 21st century — I'm especially into the JAMstack and serverless functions.
-<br />
-<br />
+<h3>Howdy, I'm James! 🤝</h3>
 
-## What I'm working on ✨
-My most recently written site is [uvm.vote](https://uvm.vote), but I'm excited to switch [unwaitlist.io](https://unwaitlist.io/) from Azure to Firebase. Also, I recently bought a [Tessel 2](https://tessel.io/), so I'm pretty excited to see my code manifest in the physical world.
-<br />
-<br />
+🗳 <em>Currently:</em> president and sole developer of <a href="https://uvm.vote">UVM Votes</a>, doing related research with Tufts.
+
+❤️ <em>Tech Preference:</em> working in the JAMstack with <a href="https://www.11ty.dev">Eleventy</a>, deployed over Netlify.
+
+🔗 Check out <a href="https://www.linkedin.com/in/james-tedesco-802/">my LinkedIn</a>!
+
+🍁 Vermont's my home — I care about local business as much as local government.
+
+⚽️ In my freetime, there are good odds I'm playing soccer.
+
+🤖 My brother bought us a couple Raspberry Pi platforms, so waiting to see what we'll do with that!
+
+👨‍✈️ I'm ecstatic for the release of GitHub Co-Pilot!
