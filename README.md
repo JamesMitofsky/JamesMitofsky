@@ -1,4 +1,5 @@
-<h3>Bonjour, je m'appelle James! 👋</h3>
+<h1>Bonjour, je m'appelle James! 👋</h1>
+<h3>Je cherche un emploi — contactez-moi!</h3>
 
 👨‍💻 J'ai familiarité avec HTML, CSS, Javascript, et plusieurs choses de la JAMstack (Javascript, APIs, & Markdown). Actuellement, je déploie mes sites de SSG avec le framework d'Eleventy sur Netlify. J'adore developer les applications pour une bonne expérience de l'utilisateur. 
 
