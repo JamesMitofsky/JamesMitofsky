@@ -1,5 +1,5 @@
 <h1>Bonjour, je m'appelle James! 👋</h1>
-<h3>Je cherche un emploi —   <a href="mailto: james.tedesco@etu.unicaen.fr?subject=Parlons de la programmation!">contactez-moi!</a></h3>
+<h3>Je cherche un emploi —   <a href="mailto: contact@jamestedesco.me?subject=Parlons de la programmation!">contactez-moi!</a></h3>
 
 👨‍💻 J'ai familiarité avec HTML, CSS, Javascript, et plusieurs choses de la JAMstack (Javascript, APIs, & Markdown). Actuellement, je déploie mes sites de SSG avec le framework d'Eleventy sur Netlify. J'adore developer les applications pour une bonne expérience de l'utilisateur. 
 
