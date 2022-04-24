@@ -1,6 +1,6 @@
 <h1>I'm looking for work 👋</h1>
 
-👨‍💻 I love web development, and I have 3 years experience with modern HTML, CSS, and Javascript. I'm a fan of the [JAMstack](https://jamstack.org/), but I've enjoyed deploying projects which require serverless databases, browser extensions, and serverless functions.
+👨‍💻 I love web development, and I have 3 years experience with modern HTML, CSS, and Javascript. I'm really interested in the [JAMstack](https://jamstack.org/), but I've also enjoyed deploying projects which require serverless databases, browser extensions, and serverless functions.
 
 📚I love learning, and I love working with people. Over the years, I've built projects for students, my university, and — an extremely exigent client — my family.
 
