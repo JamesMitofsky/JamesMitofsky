@@ -8,7 +8,7 @@
 
 <h2>🇫🇷 Parlez-vous français?</h2>
 <details>
-  <summary>👈 Cliquez pour plus!</summary>
+  <summary>Cliquez pour plus! 👈</summary>
 
 <h3>Je cherche un emploi —   <a href="mailto: contact@jamestedesco.me?subject=Parlons de la programmation!">contactez-moi!</a></h3>
 
