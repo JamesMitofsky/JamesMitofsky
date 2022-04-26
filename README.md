@@ -1,10 +1,10 @@
 <h1>I'm looking for work 👋</h1>
 
-👨‍💻 I love web development, and the last 3 years have have shown me I can't keep myself away.
+👨‍💻 I love web development, and the past 3 years have shown me I can't keep away!
 
-📚 The [JAMstack](https://jamstack.org/) is my jam, but there's still space in my heart for serverless databases, browser extensions, and serverless functions.
+📚 My affection has been won by tech like the [JAMstack](https://jamstack.org/), serverless databases, browser extensions, and serverless functions.
 
-🤝 I love working with other people — it's a constant inspiration. I've built projects for students, my university, and — the most exigent client — my family.
+🤝 I love hearing the ideas, problems, solutions, and curiousities of other people! I've worked with students, my university, and — a deeply exigent client — my family.
 
 🎓 I'm in the 4th year of a Political Science BA with a concentration on voting rights, and I have a background in publishing research with Tufts, so I'm no stranger to diagnosing problems.
 
