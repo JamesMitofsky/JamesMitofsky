@@ -1,8 +1,8 @@
 <h1>I'm looking for work 👋</h1>
 
-👨‍💻 I love web development, and I have 3 years experience with modern HTML, CSS, and Javascript. I'm really interested in the [JAMstack](https://jamstack.org/), but I've also enjoyed deploying projects which require serverless databases, browser extensions, and serverless functions.
+👨‍💻 I love web development, and I have 3 years experience with modern HTML, CSS, and Javascript. I love the [JAMstack](https://jamstack.org/) but have also enjoyed deploying projects using serverless databases, browser extensions, and serverless functions.
 
-📚I love learning, and I love working with people. Over the years, I've built projects for students, my university, and — an extremely exigent client — my family.
+📚I love learning, and I love working with people. I've built projects for students, my university, and — the most exigent client — my family.
 
 🎓 I'm in the 4th year of a Political Science BA with a concentration on voting rights, and I have a background in publishing research with Tufts, so I'm no stranger to diagnosing problems.
 
