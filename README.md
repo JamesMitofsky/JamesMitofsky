@@ -6,7 +6,7 @@
 
 🤝 I've created for my family, peers, community, university, & local agricultural producers.
 
-✨ Want to do something? <a href="https://twitter.com/JamesTedesco802">Let's chat</a> about your ideas, curiousities, problems... whatever!
+📫 Want to get in touch? <a href="https://twitter.com/JamesTedesco802">Let's chat</a> about your ideas, curiousities, problems... whatever!
 
 <h2>🇫🇷 Parlez-vous français?</h2>
 <details>
