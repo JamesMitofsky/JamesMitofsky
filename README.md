@@ -2,7 +2,7 @@
 
 👨‍💻 I love working with frontend technologies!
 
-📚 The [JAMstack](https://jamstack.org/) is groovy, made even more fun by serverless databases & functions. I've also dabbled with browser extensions.
+📚 The [JAMstack](https://jamstack.org/) is groovy, made better still by serverless databases & functions. I also dabble with Chrome extensions.
 
 🤝 Anyone can bend my ear with their ideas, curiousities, or problems! I've worked with students, my university, and — a deeply exigent client — my family.
 
