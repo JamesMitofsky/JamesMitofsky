@@ -1,6 +1,6 @@
 <h1>I'm looking for work 👋</h1>
 
-👨‍💻 I love working with frontend technologies!
+👨‍💻 I love frontend technologies!
 
 📚 The [JAMstack](https://jamstack.org/) is groovy — also a fan of browser extensions, serverless databases, & serverless functions.
 
