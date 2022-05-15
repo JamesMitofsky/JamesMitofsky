@@ -4,7 +4,7 @@
 
 📚 The [JAMstack](https://jamstack.org/) is groovy — also a fan of browser extensions, serverless databases, & serverless functions.
 
-🤝 I've coded for my family, peers, community, university, & local agricultural producers.
+🤝 I've created for my family, peers, community, university, & local agricultural producers.
 
 ✨ Want to do something? <a href="https://twitter.com/JamesTedesco802">Let's chat</a> about your ideas, curiousities, problems... whatever!
 
