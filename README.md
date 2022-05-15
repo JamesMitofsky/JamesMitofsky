@@ -2,13 +2,11 @@
 
 👨‍💻 I love working with frontend technologies!
 
-📚 The [JAMstack](https://jamstack.org/) is groovy, made better still by serverless databases & functions. I also dabble with Chrome extensions.
+📚 The [JAMstack](https://jamstack.org/) is groovy — also a fan of browser extensions, serverless databases, & serverless functions.
 
-🤝 I've worked with students, universities, organic farmers, and — a deeply exigent client — my family 😉.
+🤝 I've coded for my family, peers, community, university, & local agricultural producers.
 
-🎓 I have a background in voting rights research. I'm no stranger to diagnosing problems.
-
-✨ I'd love to collaborate! Reach out with your ideas, curiousities, problems... whatever!
+✨ Want to do something? <a href="https://twitter.com/JamesTedesco802">Let's chat</a> about your ideas, curiousities, problems... whatever!
 
 <h2>🇫🇷 Parlez-vous français?</h2>
 <details>
