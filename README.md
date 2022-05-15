@@ -4,7 +4,7 @@
 
 📚 The [JAMstack](https://jamstack.org/) is groovy, made better still by serverless databases & functions. I also dabble with Chrome extensions.
 
-🤝 Anyone can bend my ear with their ideas, curiousities, or problems! I've worked with students, my university, and — a deeply exigent client — my family.
+🤝 Anyone can bend my ear with their ideas, curiousities, or problems! I've worked with students, a university, agriculture producers, and — a deeply exigent client — my family.
 
 🎓 In parallel to my coding experience, I have a background in voting rights research. I'm no stranger to diagnosing problems.
 
