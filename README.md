@@ -2,7 +2,7 @@
 
 👨‍💻 I love frontend technologies (and juggling 🤹‍♂️)!
 
-📚 The [JAMstack](https://jamstack.org/) is groovy — also a fan of browser extensions, serverless databases, & serverless functions.
+📚 The [JAMstack](https://jamstack.org/) is groovy, and tools like serverless databases & functions breathe life life into my work.
 
 🤝 I've designed for my family, peers, community, university, & local agricultural producers.
 
