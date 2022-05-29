@@ -1,4 +1,4 @@
-<h1>I'm searching for work! 🔎</h1>
+<h1>🔎 I'm searching for work!</h1>
 
 👨‍💻 I love frontend technologies (and juggling 🤹‍♂️)!
 
