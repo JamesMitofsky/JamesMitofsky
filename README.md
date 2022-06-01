@@ -1,8 +1,8 @@
 <h1>🔎 I'm searching for work!</h1>
 
-👨‍💻 I love frontend technologies (and juggling 🤹‍♂️)!
+👨‍💻 I love thoughtful design (and juggling 🤹‍♂️)!
 
-📚 The [JAMstack](https://jamstack.org/) is groovy, and tools like serverless databases & functions breathe life life into my work.
+📚 The JAMstack is my home, where tools like serverless databases & functions breathe life into my work.
 
 🤝 I've designed for my family, peers, community, university, & local agricultural producers.
 
