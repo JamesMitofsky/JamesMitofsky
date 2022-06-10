@@ -6,7 +6,7 @@
 
 🤝 I've designed for my family, peers, community, university, & world renowned agricultural producers.
 
-📫 Want to get in touch? <a href="https://twitter.com/JamesTedesco802">Let's chat</a> about your ideas, projects, problems... whatever!
+📫 Want to get in touch? Let's chat about your ideas, projects, problems... whatever! <a href="https://twitter.com/JamesTedesco802">@JamesTedesco802</a>
 
 <h2>🇫🇷 Parlez-vous français?</h2>
 <details>
