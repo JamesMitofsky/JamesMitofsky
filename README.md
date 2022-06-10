@@ -4,7 +4,7 @@
 
 📚 The JAMstack is my home, where tools like serverless databases & functions breathe life into my work.
 
-🤝 I've designed for my family, peers, community, university, & local agricultural producers.
+🤝 I've designed for my family, peers, community, university, & world renowned agricultural producers.
 
 📫 Want to get in touch? <a href="https://twitter.com/JamesTedesco802">Let's chat</a> about your ideas, projects, problems... whatever!
 
