@@ -1,16 +1,15 @@
-<h1>🔎 I'm searching for work!</h1>
+<h1>👨‍💻 I'm <a href="https://jamestedesco.me">searching</a> for work!</h1>
 
-👨‍💻 I love thoughtful design (and juggling 🤹‍♂️)!
+🏛 I love thoughtful design (and juggling 🤹‍♂️)!
 
-📚 The JAMstack is my home, where tools like serverless databases & functions breathe life into my work.
+📚 I built lightweight designs with the JAMstack and serverless functions.
 
-🤝 I've designed for my family, peers, community, university, & world renowned agricultural producers.
+🤝 I've designed for my peers, community, university, & award winning agricultural producers.
 
-📫 Want to get in touch? Let's chat about your ideas, projects, problems... whatever! <a href="https://twitter.com/JamesTedesco802">@JamesTedesco802</a>
+<br>
 
-<h2>🇫🇷 Parlez-vous français?</h2>
 <details>
-  <summary>Cliquez pour plus! 👈</summary>
+  <summary><h4>🇫🇷 Clickez ici pour le français 👈</h4></summary>
 
 <h3>Je cherche un emploi —   <a href="mailto: dev@jamestedesco.me?subject=Parlons de la programmation!">contactez-moi!</a></h3>
 
