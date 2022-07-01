@@ -1,4 +1,4 @@
-<h1>👨‍💻 I'm <a href="https://jamestedesco.me">searching</a> for work!</h1>
+<h1>👨‍💻 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!</h1>
 
 🏛 I love thoughtful design (and juggling 🤹‍♂️)!
 
