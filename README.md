@@ -2,7 +2,7 @@
 
 🏛 I love thoughtful design (and juggling 🤹‍♂️)!
 
-📚 I built lightweight designs with the JAMstack and serverless functions.
+📚 I build lightweight designs with the JAMstack and serverless functions.
 
 🤝 I've designed for my peers, community, university, & award winning agricultural producers.
 
