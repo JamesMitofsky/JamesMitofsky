@@ -1,10 +1,13 @@
-<h1>👨‍💻 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!</h1>
+<h1>💼 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!</h1>
 
-🏛 I love thoughtful design (and juggling 🤹‍♂️)!
+<!--Badge afforded by this cool cloud service: https://github.com/antonkomarev/github-profile-views-counter-->
+![](https://komarev.com/ghpvc/?username=JamesMitofsky&style=flat-squrae)
 
-📚 I build lightweight designs with the JAMstack and serverless functions.
+👨‍💻 I'm actively working with `React.js`
 
-🤝 I've designed for my peers, community, university, & award winning agricultural producers.
+🚪 I'm curious about how design shapes everyday decisions, on the web and in the street.
+
+🧪 I've developed products for my peers, community, university, & award winning agricultural producers.
 
 <br>
 
