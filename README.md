@@ -14,8 +14,7 @@
 <!--<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />-->
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/12516538/185584546-ab4cb52c-3cc1-40c3-9847-2ac9cb0a7465.png" />
+<img align="left" alt="Netlify" width="30px" src="https://user-images.githubusercontent.com/12516538/185584546-ab4cb52c-3cc1-40c3-9847-2ac9cb0a7465.png" />
 
 <br><br>
 
@@ -30,8 +29,6 @@
 
 🗺 Je suis arrivé des États-Unis à Caen, en Normandie en janvier, parce que j'avais le désir d'apprendre et améliorer mon français. Pour le moment, j'ai un niveau de français B1, alors je pense que c'est un niveau suffisant pour les fonctions basique, mais j'aimerais — bien sûr — apprendre beaucoup plus. La vie en france? Je l'adore!
 </details>
-
-<br>
 
 <!--More comprehensive tracking provided by Y HYPE-->
 ![](https://hit.yhype.me/github/profile?user_id=12516538)
