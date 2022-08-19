@@ -1,14 +1,23 @@
-<h1>💼 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!</h1>
+# 💼 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!
 
-👨‍💻 I'm actively working with `React.js`
+🌱 I'm currently working with `React.js`
 
-🚪 I'm interested in how design affects people, whether they're clicking buttons or trying to pull on doors meant to be pushed.
+🔬 I'm interested in how design affects people, whether they're clicking buttons or trying to pull on doors meant to be pushed.
 
 🧪 I've developed products for my peers, community, university, & award winning agricultural producers.
 
-<br>
+## Languages & Tools
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="JAMstack" width="30px" src="https://d33wubrfki0l68.cloudfront.net/1d6248982d56f5b390b078f8ad053c3a6e61bfb2/ef690/img/logo/svg/jamstack_icon_original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<!--<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />-->
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMitofsky)]()
+<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/12516538/185584546-ab4cb52c-3cc1-40c3-9847-2ac9cb0a7465.png" />
+
+<br><br>
 
 <details>
   <summary><h4>🇫🇷 Clickez ici pour le français 👈</h4></summary>
@@ -22,6 +31,7 @@
 🗺 Je suis arrivé des États-Unis à Caen, en Normandie en janvier, parce que j'avais le désir d'apprendre et améliorer mon français. Pour le moment, j'ai un niveau de français B1, alors je pense que c'est un niveau suffisant pour les fonctions basique, mais j'aimerais — bien sûr — apprendre beaucoup plus. La vie en france? Je l'adore!
 </details>
 
+<br>
 
 <!--Badge afforded by this cool cloud service: https://github.com/antonkomarev/github-profile-views-counter-->
 ![](https://komarev.com/ghpvc/?username=JamesMitofsky&style=flat-squrae)
