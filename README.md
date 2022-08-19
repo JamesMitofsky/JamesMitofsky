@@ -22,3 +22,7 @@
 
 🗺 Je suis arrivé des États-Unis à Caen, en Normandie en janvier, parce que j'avais le désir d'apprendre et améliorer mon français. Pour le moment, j'ai un niveau de français B1, alors je pense que c'est un niveau suffisant pour les fonctions basique, mais j'aimerais — bien sûr — apprendre beaucoup plus. La vie en france? Je l'adore!
 </details>
+
+
+<!--More comprehensive tracking provided by Y HYPE-->
+![](https://hit.yhype.me/github/profile?user_id=12516538)
