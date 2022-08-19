@@ -1,10 +1,10 @@
 # 💼 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!
 
-🌱 I'm currently working with `React.js`
+🌱 Currently working with `React.js`
 
-🔬 I'm interested in how design affects people, whether they're clicking buttons or trying to pull on doors meant to be pushed.
+🔬 Interested in how design affects people, whether they're clicking buttons or trying to pull on doors meant to be pushed.
 
-🧪 I've developed products for my peers, community, university, & award winning agricultural producers.
+🧪 Developed products for my peers, community, university, & award winning agricultural producers.
 
 ## Languages & Tools
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
