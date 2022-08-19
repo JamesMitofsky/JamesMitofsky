@@ -2,7 +2,7 @@
 
 👨‍💻 I'm actively working with `React.js`
 
-🚪 I'm interested in how design affects people, whether they're clicking buttons on the web or trying to pull on doors meant to be pushed.
+🚪 I'm interested in how design affects people, whether they're clicking buttons or trying to pull on doors meant to be pushed.
 
 🧪 I've developed products for my peers, community, university, & award winning agricultural producers.
 
