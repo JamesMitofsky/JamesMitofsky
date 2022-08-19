@@ -18,7 +18,7 @@
 <br><br>
 
 <details>
-  <summary><h4>🇫🇷 Clickez ici pour le français 👈</h4></summary>
+  <summary><h6>🇫🇷 Clickez ici pour le français 👈</h6></summary>
 
 <h3>Je cherche un emploi —   <a href="mailto: dev@jamestedesco.me?subject=Parlons de la programmation!">contactez-moi!</a></h3>
 
