@@ -33,8 +33,5 @@
 
 <br>
 
-<!--Badge afforded by this cool cloud service: https://github.com/antonkomarev/github-profile-views-counter-->
-![](https://komarev.com/ghpvc/?username=JamesMitofsky&style=flat-squrae)
-
 <!--More comprehensive tracking provided by Y HYPE-->
 ![](https://hit.yhype.me/github/profile?user_id=12516538)
