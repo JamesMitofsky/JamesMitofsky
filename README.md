@@ -8,7 +8,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMitofsky&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMitofsky)]()
 
 <details>
   <summary><h4>🇫🇷 Clickez ici pour le français 👈</h4></summary>
