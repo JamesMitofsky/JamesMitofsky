@@ -2,9 +2,9 @@
 
 🌱 Currently working with `React.js`
 
-🥸 Curious if I should make something topsy-turvy with `Astro.js`
+🔭 Curious if I should make something topsy-turvy with `Astro.js`
 
-✨ Eager to help my peers, communities, universities, & the world.
+🤝 Eager to help my peers, communities, universities, & the world.
 
 ## Languages & Tools
 <img align="left" alt="React.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
