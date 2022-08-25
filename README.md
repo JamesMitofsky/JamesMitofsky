@@ -2,7 +2,7 @@
 
 🌱 Currently working with `React.js`
 
-🔭 Curious if I should make shoot for the moon with `Astro.js`
+🔭 Curious if I should shoot for the moon with `Astro.js`
 
 🤝 Eager to help my peers, communities, universities, & the world.
 
