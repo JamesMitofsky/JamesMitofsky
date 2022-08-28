@@ -2,9 +2,9 @@
 
 🌱 Currently working with `React.js`
 
-🔭 Curious if I should shoot for the moon with `Astro.js`
+🔭 Interested in <a href="https://docs.astro.build/en/concepts/islands/">islands of interactivity</a> with `Astro.js`
 
-🤝 Eager to help my peers, communities, universities, & the world.
+🤝 Always looking to team up on a new project.
 
 ## Languages & Tools
 <img align="left" alt="React.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
