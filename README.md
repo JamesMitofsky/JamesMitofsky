@@ -2,7 +2,7 @@
 
 🌱 Currently working with `React.js`
 
-🔭 Interested in <a href="https://docs.astro.build/en/concepts/islands/">islands of interactivity</a> with `Astro.js`
+🚀 Super excited to work with Google's <a href="https://qwik.builder.io/">no-hydration framework</a>, `Qwik`
 
 🤝 Always looking to team up on a new project.
 
