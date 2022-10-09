@@ -20,13 +20,13 @@
 <details>
   <summary><h6>🇫🇷 Clickez ici pour le français 👈</h6></summary>
 
-<h3>Je cherche un emploi —   <a href="mailto: dev@jamestedesco.me?subject=Parlons de la programmation!">contactez-moi!</a></h3>
+<h3>Je cherche un emploi —   <a href="mailto: me@jamesmit.dev?subject=Parlons de la programmation!">contactez-moi!</a></h3>
 
-👨‍💻 J'ai familiarité avec HTML, CSS, Javascript, et plusieurs choses de la JAMstack (Javascript, APIs, & Markdown). Actuellement, je déploie mes sites de SSG avec le framework d'Eleventy sur Netlify. J'aime bien developer les applications pour une bonne expérience de l'utilisateur. 
+👨‍💻 J'aime faire des choses avec React, et je me concentre sur l'expérience de l'utilisateur. Récemment, j'ai fini de lire "The Design of Everyday Things" par Don Norman, et je l'ai trouvé impressionnant.
 
-📚J'adore apprendre, et mon dossier le montre. J'ai la capacité de surmonter les obstacles et résoudre les problèmes.
+📚 J'adore apprendre, donc quoique mon niveau en français reste un peu en bas, je suis chaud pour surmonter tous des obstacles. Maintenant, les obstacles sont plus comme, "comment on commande une baguette" mais j'espère que je vais y arriver.
 
-🗺 Je suis arrivé des États-Unis à Caen, en Normandie en janvier, parce que j'avais le désir d'apprendre et améliorer mon français. Pour le moment, j'ai un niveau de français B1, alors je pense que c'est un niveau suffisant pour les fonctions basique, mais j'aimerais — bien sûr — apprendre beaucoup plus. La vie en france? Je l'adore!
+🗺 Je suis arrivé des États-Unis à Caen, en Normandie, en janvier, et je suis immédiatement tombé amoureux du mode de vie ici. Je compte donc rester en France en permenance. :)
 </details>
 
 <!--More comprehensive tracking provided by Y HYPE-->
