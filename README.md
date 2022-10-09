@@ -1,7 +1,7 @@
 ## I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work 🕵️‍♂️
 
 👨‍💻 Experienced with `React.js`  
-🚀 Very excited to try the <a href="https://qwik.builder.io/">no-hydration framework</a>, `Qwik`  
+🚀 Interested in the <a href="https://qwik.builder.io/">no-hydration framework</a>, `Qwik`  
 🤝 I really like helping local businesses, artists, and ideas.  
 
 #### My Languages & Tools
