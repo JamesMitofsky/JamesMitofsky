@@ -1,10 +1,10 @@
 # 💼 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!
 
-🌱 Currently working with `React.js`
+👨‍💻 Experienced with `React.js`
 
-🚀 Super excited to work with Google's <a href="https://qwik.builder.io/">no-hydration framework</a>, `Qwik`
+🚀 Super excited to try out the <a href="https://qwik.builder.io/">no-hydration framework</a>, `Qwik`
 
-🤝 Always looking to team up on a new project.
+🤝 Always looking to team up on a project!
 
 ## Languages & Tools
 <img align="left" alt="React.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
