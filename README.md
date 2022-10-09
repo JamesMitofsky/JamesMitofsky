@@ -1,4 +1,4 @@
-# 🔍 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!
+# 🔎 I'm <a href="https://www.linkedin.com/in/james-tedesco-802/">searching</a> for work!
 
 👨‍💻 Experienced with `React.js`
 
