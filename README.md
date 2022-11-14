@@ -6,12 +6,12 @@
 
 ### My Languages & Tools
 
-![React.js](images/react.svg)  
-![MUI](images/mui.svg)  
-![Vite.js](images/vitejs.svg)  
-![Sass](images/sass.svg)  
-![Eleventy.js](images/11ty.svg)  
-![JavaScript](images/js.svg)  
+![React.js](images/react.svg)
+![MUI](images/mui.svg)
+![Vite.js](images/vitejs.svg)
+![Sass](images/sass.svg)
+![Eleventy.js](images/11ty.svg)
+![JavaScript](images/js.svg)
 
 
 
