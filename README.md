@@ -1,5 +1,3 @@
-## I'm [searching](https://www.linkedin.com/in/jamesmitofsky/) for work 🕵️‍♂️
-
 👨‍💻 Experienced with `React.js`  
 🚀 Interested in the no-hydration framework, [`Qwik`](https://qwik.builder.io/)  
 🤝 I really like helping local businesses, artists, and ideas.  
