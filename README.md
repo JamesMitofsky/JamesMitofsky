@@ -1,6 +1,6 @@
 👨‍💻 Experienced with `React.js`  
 🚀 Interested in the no-hydration framework, [`Qwik`](https://qwik.builder.io/)  
-🤝 I really like helping local businesses, artists, and ideas.  
+🤝 I like helping local businesses, artists, and ideas.  
 
 ### My Languages & Tools
 
