@@ -18,7 +18,7 @@
   
 📐 Passionné l'expérience utilisateur, j'ai récemment été captivé par le livre "The Design of Everyday Things" de Don Norman.
 
-🗺 Ayant déménagé à Caen, en Normandie, depuis les États-Unis en janvier, j'ai rapidement été séduit par le mode de vie ici. Je suis enthousiaste à l'idée de m'intégrer pleinement dans la culture locale.
+🗺 Ayant déménagé à Caen, en Normandie, depuis les États-Unis en janvier 2022, j'ai rapidement été séduit par le mode de vie ici. Je suis enthousiaste à l'idée de m'intégrer pleinement dans la culture locale.
 
 👨‍💻 En tant que programmeur compétent, je possède une solide expérience dans le développement avec React. Mon objectif est d'optimiser les fonctionnalités et de créer des interfaces utilisateur intuitives. Je suis également un apprenant passionné, prêt à surmonter tous les obstacles pour continuer à évoluer.
   
