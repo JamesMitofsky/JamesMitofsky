@@ -15,13 +15,14 @@
 
 <details>
   <summary><h6>🇫🇷 Clickez ici pour le français 👈</h6></summary>
-👨‍💻 J'aime faire des choses avec React, et je me concentre sur l'expérience de l'utilisateur. Récemment, j'ai fini de lire "The Design of Everyday Things" par Don Norman, et je l'ai trouvé impressionnant.
-
-📚 J'adore apprendre, donc quoique mon niveau en français reste un peu en bas, je suis chaud pour surmonter tous des obstacles. Maintenant, les obstacles sont plus comme, "comment on commande une baguette" mais j'espère que je vais y arriver.
-
-🗺 Je suis arrivé des États-Unis à Caen, en Normandie, en janvier, et je suis immédiatement tombé amoureux du mode de vie ici. Je compte donc rester en France en permenance. :)
   
-<a href="mailto: me@jamesmit.dev?subject=Parlons de la programmation!">Contactez-moi si vous voulez parler en plus!</a>
+📐 Passionné l'expérience utilisateur, j'ai récemment été captivé par le livre "The Design of Everyday Things" de Don Norman.
+
+🗺 Ayant déménagé à Caen, en Normandie, depuis les États-Unis en janvier, j'ai rapidement été séduit par le mode de vie ici. Je suis enthousiaste à l'idée de m'intégrer pleinement dans la culture locale.
+
+👨‍💻 En tant que programmeur compétent, je possède une solide expérience dans le développement avec React. Mon objectif est d'optimiser les fonctionnalités et de créer des interfaces utilisateur intuitives. Je suis également un apprenant passionné, prêt à surmonter tous les obstacles pour continuer à évoluer.
+  
+<a href="mailto: hey@jamesmit.dev?subject=Parlons de la programmation!">Contactez-moi si vous voulez en parler !</a>
 
 <!--More comprehensive tracking provided by Y HYPE-->
 ![](https://hit.yhype.me/github/profile?user_id=12516538)
