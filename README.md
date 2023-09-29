@@ -11,10 +11,10 @@
 ![Eleventy.js](images/11ty.svg)
 ![JavaScript](images/js.svg)
 
-
+<br><br>
 
 <details>
-  <summary><h6>🇫🇷 Clickez ici pour le français 👈</h6></summary>
+  <summary>🇫🇷 Version française 👈</summary>
   
 📐 Passionné l'expérience utilisateur, j'ai récemment été captivé par le livre "The Design of Everyday Things" de Don Norman.
 
