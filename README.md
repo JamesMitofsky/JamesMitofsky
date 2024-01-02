@@ -1,4 +1,4 @@
-👨‍💻 I'm experienced with `React.js`
+👨‍💻 I'm experienced with `React.js`  
 🚀 Feeling curious about the no-hydration framework, [`Qwik`](https://qwik.builder.io/)  
 🤝 I like helping local businesses, artists, and ideas.  
 
