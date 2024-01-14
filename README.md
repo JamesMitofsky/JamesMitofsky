@@ -4,12 +4,10 @@
 
 ### My Languages & Tools
 
+![TypeScript](images/ts.svg)
 ![React.js](images/react.svg)
 ![MUI](images/mui.svg)
-![Vite.js](images/vitejs.svg)
-![Sass](images/sass.svg)
-![Eleventy.js](images/11ty.svg)
-![JavaScript](images/js.svg)
+![Next.js](images/next.svg)
 
 <br><br>
 
