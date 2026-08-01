@@ -1,8 +1,8 @@
-🔍 Interested in the risk of unintuitive responses from LLMs
+🔬 Interested in the consequences of unintuitive LLM behavior
 
-💪 Eager to pitch-in on projects that make the world a better place
+🪏 Enthusiastic about socially productive work
 
-🪣 Curious about no-hydration frameworks like [`Qwik`](https://qwik.builder.io/)
+🔸 Gratefully using Svelte, and curious about [`Qwik`](https://qwik.builder.io/)
 
 
 
